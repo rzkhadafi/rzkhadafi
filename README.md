@@ -4,8 +4,8 @@
   
   <br>
   
-  <!-- Animasi Teks Mengetik dengan Font Sci-Fi (Orbitron) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Initiating+A.U.R.A+Protocols...;System+Architect+%7C+Flutter+Dev;Crafting+Interactive+Narratives;Kasus+01:+Sisi+Gelap+Lensa" alt="Typing SVG" />
+  <!-- Animasi Teks Mengetik dengan Font Sci-Fi (Orbitron) - Universal & Data Focused -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Hello,+World!;I'm+an+Enthusiastic+Fresh+Graduate;Deeply+Passionate+About+Data+%F0%9F%93%8A;Building+Diverse+Tech+Projects+%F0%9F%9A%80;Always+Exploring+%26+Learning" alt="Typing SVG" />
 </div>
 
 <!-- Garis Pemisah Animasi (Neon Biru) -->
@@ -20,18 +20,19 @@
   <table border="0">
     <tr>
       <td width="60%" valign="top">
-        <h2 align="center">✦ Terminal Status ✦</h2>
+        <h2 align="center">✦ Welcome to My Playground ✦</h2>
         <p align="justify">
-          Menerjemahkan cetak biru teknis menjadi pengalaman digital yang imersif. Saat ini berfokus pada perancangan arsitektur direktori dan aliran <i>gameplay</i>.
+          Halo! Saya adalah seorang <i>fresh graduate</i> yang sangat antusias menyelami luasnya dunia teknologi. Repositori GitHub saya adalah kanvas tempat saya bereksperimen, belajar, dan memecahkan masalah.
         </p>
         <ul>
-          <li><b>🛠️ Primary Engine:</b> Menggunakan <b>Flutter & Dart</b> untuk membangun antarmuka dinamis seperti <i>interactive metadata display</i> dan <i>public gallery screens</i>.</li>
-          <li><b>🎬 Audio/Visual Integration:</b> Meracik <i>prompt</i> generasi video untuk lingkungan imersif (seperti dok hujan atau interior gudang) dan mengelola aset suara berparameter khusus (misal: <i>[whispering]</i>) menggunakan Premiere Pro / CapCut.</li>
-          <li><b>🚀 Current Mission:</b> Mengembangkan infrastruktur teknis untuk narasi interaktif yang mendalam.</li>
+          <li><b>📊 Core Passion:</b> Minat utama saya berakar pada <b>Data</b> (Data Science, Analytics, & Engineering). Saya suka menggali wawasan dari kumpulan data yang rumit.</li>
+          <li><b>🧩 Versatile Explorer:</b> Di luar data, saya tidak ragu untuk "mengotori tangan" di berbagai bidang lain. Di sini kamu akan menemukan proyek campuran mulai dari <i>Mobile App</i>, <i>Web Development</i>, hingga eksperimen <i>UI/UX</i>.</li>
+          <li><b>🌱 Currently Learning:</b> Terus menajamkan insting analisis data sekaligus mengeksplorasi arsitektur perangkat lunak terkini.</li>
+          <li><b>💬 Let's Connect:</b> Selalu terbuka untuk diskusi tentang data, kolaborasi proyek lintas disiplin, atau peluang karir yang menantang!</li>
         </ul>
       </td>
       <td width="40%" align="center">
-        <!-- GIF Karakter Sedang Coding -->
+        <!-- GIF Animasi Data/Coding -->
         <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Animation" />
       </td>
     </tr>
@@ -40,9 +41,9 @@
 
 <br>
 
-<!-- Tropi Animasi (Otomatis menyesuaikan dengan pencapaian GitHub-mu) -->
+<!-- Tropi Animasi (Otomatis menyesuaikan pencapaian lintas bahasamu) -->
 <div align="center">
-  <h2>✦ Developer Achievements ✦</h2>
+  <h2>✦ Continuous Growth ✦</h2>
   <a href="https://github.com/rzkhadafi">
     <img src="https://github-profile-trophy.vercel.app/?username=rzkhadafi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
   </a>
@@ -53,22 +54,27 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%">
 </div>
 
-<!-- Kartu Statistik Dinamis Tema Cyberpunk -->
+<!-- Deretan Ikon Skill - Campuran Data & General Tech Stack -->
 <div align="center">
-  <h2>✦ System Metrics ✦</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=rzkhadafi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=79C0FF" width="48%" />
-  <!-- Kartu Streak (Menyala hijau jika kamu aktif setiap hari) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rzkhadafi&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=79C0FF" width="48%" />
+  <h2>✦ Tech Explorer Arsenal ✦</h2>
+  <p><i>Kumpulan alat yang pernah dan sedang saya gunakan di berbagai proyek:</i></p>
+  <a href="https://skillicons.dev">
+    <!-- Baris 1: Fokus Data & Fundamental -->
+    <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,sqlite,java,cpp&perline=10" />
+    <br><br>
+    <!-- Baris 2: Versatility (Mobile, Web, Tools) -->
+    <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,js,git,github,vscode&perline=10" />
+  </a>
 </div>
 
 <br>
 
-<!-- Deretan Ikon Skill dengan efek Glassmorphism (Modern) -->
+<!-- Kartu Statistik Dinamis Tema Cyberpunk -->
 <div align="center">
-  <h2>✦ Tech Arsenal ✦</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,vscode,git,github,firebase,figma,pr,ae,ps&perline=10" />
-  </a>
+  <h2>✦ Activity Metrics ✦</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=rzkhadafi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=79C0FF" width="48%" />
+  <!-- Kartu Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rzkhadafi&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=00FF99&currStreakNum=79C0FF" width="48%" />
 </div>
 
 <br>
