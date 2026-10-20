@@ -35,7 +35,7 @@
 <p align="center"><sub><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%"></sub></p>
 
 <!-- ========================================== -->
-<!-- 3. CORE PROTOCOLS (PROFIL & RADAR)         -->
+<!-- CORE PROTOCOLS (PROFIL & TERMINAL)         -->
 <!-- ========================================== -->
 <table border="0" width="100%">
   <tr>
@@ -50,8 +50,23 @@
         <li><b>🎬 Immersive Environments:</b> Meracik parameter video imersif dan mengatur aset suara khusus melalui CapCut dan alat serupa.</li>
       </ul>
     </td>
+    <!-- KOTAK KANAN: TERMINAL KETIK OTOMATIS (DIPERBAIKI) -->
     <td width="35%" align="center" valign="middle">
-      <img src="https://i.pinimg.com/originals/a7/3d/6e/a73d6e4ac85c6a822841e449b24c78e1.gif" width="90%" alt="Radar HUD" style="border-radius: 10px; border: 1px solid #00BFFF; filter: hue-rotate(200deg);" />
+      <!-- Tabel dalam tabel untuk memaksa GitHub merender warna kotak terminal -->
+      <table border="1" width="100%">
+        <tr>
+          <td bgcolor="#0D1117" align="left">
+            <code><span style="color: #00BFFF;">root@rzkhadafi:~$</span> initialize_core</code><br>
+            <code><span style="color: #00FF99;">[OK]</span> Data arrays loaded.</code><br>
+            <code><span style="color: #00FF99;">[OK]</span> Flutter engine ready.</code><br>
+            <code><span style="color: #00FF99;">[OK]</span> Immersive audio set.</code><br><br>
+            <code><span style="color: #00BFFF;">root@rzkhadafi:~$</span> status</code><br>
+            <a href="https://git.io/typing-svg">
+              <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=11&pause=1000&color=00FF99&vCenter=true&width=200&lines=System+Online.;Analyzing+Data...;Building+Architecture...;Ready." alt="Terminal Typing" />
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
