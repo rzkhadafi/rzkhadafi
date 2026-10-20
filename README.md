@@ -2,8 +2,6 @@
   <img src="https://www.gitskins.com/api/section/hero?username=rzkhadafi&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F337632900%3Fv%3D4" alt="rzkhadafi hero visual" />
 </p>
 
-<p align="center"><b>rzkhadafi</b> · Product-minded developer<br/><sub>Building in public on GitHub.</sub></p>
-
 <p align="center"><a href="https://github.com/rzkhadafi">GitHub</a></p>
 
 <details open>
